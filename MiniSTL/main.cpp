@@ -1,120 +1,34 @@
 #define _CRT_SECURE_NO_WARNINGS
+#include"test.h"
 #include"miniList.h"
 #include"miniDeque.h"
 #include"miniHashTable.h"
+#include"miniSet.h"
+#include"unordered_set.h"
 
-void testList()
-{
-	List<int> ls;
-	ls.push_back(1);
-	ls.push_back(2);
-	ls.push_back(3);
-	ls.push_back(4);
 
-	/*list<int>::const_iterator it = ls.begin();
-	while (it != ls.end())
-	{
-		cout << *it << " ";
-		it++;
-	}
-	cout << endl;*/
-	List<int>::iterator it = ls.begin();
-	while (it != ls.end())
-	{
-		cout << *it << " ";
-		it++;
-	}
-	cout << endl;
+using namespace std;
 
-}
-
-void testDeque()
-{
-	Deque<int> deq;
-	deq.push_front(1);
-	deq.push_front(2);
-	deq.push_front(3);
-	deq.getSize();
-	deq.push_back(4);
-	deq.push_back(5);
-	deq.printElements();
-	deq.pop_front();
-	deq.pop_back();
-	deq.printElements();
-	//Çå¿ÕÔªËØ
-	deq.clear();
-	deq.getSize();
-
-}
-void testHashTable()
-{
-    // ´´½¨Ò»¸ö¹þÏ£±íÊµÀý
-    HashTable<int, int> hashTable;
-
-    int N;
-    std::cin >> N;
-    getchar();
-
-    std::string line;
-    for (int i = 0; i < N; i++) {
-        std::getline(std::cin, line);
-        std::istringstream iss(line);
-        std::string command;
-        iss >> command;
-
-        int key;
-        int value;
-
-        if (command == "insert") {
-            iss >> key >> value;
-            hashTable.insert(key, value);
-        }
-
-        if (command == "erase") {
-            if (hashTable.size() == 0) {
-                continue;
-            }
-            iss >> key;
-            hashTable.erase(key);
-        }
-
-        if (command == "find") {
-            if (hashTable.size() == 0) {
-                std::cout << "not exist" << std::endl;
-                continue;
-            }
-            iss >> key;
-            int* res = hashTable.find(key);
-            if (res != nullptr) {
-                std::cout << *res << std::endl;
-            }
-            else {
-                std::cout << "not exist" << std::endl;
-            }
-        }
-
-        if (command == "print") {
-            if (hashTable.size() == 0) {
-                std::cout << "empty" << std::endl;
-            }
-            else {
-                hashTable.print();
-            }
-        }
-
-        if (command == "size") {
-            std::cout << hashTable.size() << std::endl;
-        }
-
-        if (command == "clear") {
-            hashTable.clear();
-        }
-    }
-}
 int main()
 {
+	//1. ²âÊÔvector pass
+	//testVector();
+	//2. ²âÊÔList	pass
 	//testList();
+	//3. ²âÊÔDeque  pass
 	//testDeque();
-    testHashTable();
+	 //4. ²âÊÔstack pass
+	//testStack();
+	//5. ²âÊÔQueue 
+	//testQueue();
+	//6. ²âÊÔtestPriotyQueue
+	testPriotyQueue();
+
+	
+    //testrbtree();
+    //testset();
+    //testunorder_set();
+
 	return 0;
 }
+

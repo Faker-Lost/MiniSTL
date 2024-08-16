@@ -1,17 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\",
+  "WorkspaceRootPath": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\miniHashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniPriority_Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:miniPriority_Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:miniQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:miniStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniHashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:miniHashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\miniDeque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:miniVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:miniSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\MiniRBTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:MiniRBTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\unordered_set.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:unordered_set.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:miniList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\reverse_iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:reverse_iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniDeque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{50C5D107-4DC7-4F02-8679-49BE5F78FD23}|MiniSTL.vcxproj|solutionrelative:miniDeque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +78,184 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "miniPriority_Queue.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniPriority_Queue.h",
+              "RelativeDocumentMoniker": "miniPriority_Queue.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniPriority_Queue.h",
+              "RelativeToolTip": "miniPriority_Queue.h",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwFcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T12:39:08.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "miniQueue.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniQueue.h",
+              "RelativeDocumentMoniker": "miniQueue.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniQueue.h",
+              "RelativeToolTip": "miniQueue.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T12:10:27.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "miniStack.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniStack.h",
+              "RelativeDocumentMoniker": "miniStack.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniStack.h",
+              "RelativeToolTip": "miniStack.h",
+              "ViewState": "AQIAACYAAAAAAAAAAAAawCQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T11:02:19.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAAAM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T09:11:09.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\test.h",
+              "RelativeDocumentMoniker": "test.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\test.h",
+              "RelativeToolTip": "test.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T09:10:53.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T13:36:52.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "miniHashTable.h",
-              "DocumentMoniker": "D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\miniHashTable.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniHashTable.h",
               "RelativeDocumentMoniker": "miniHashTable.h",
-              "ToolTip": "D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\miniHashTable.h*",
-              "RelativeToolTip": "miniHashTable.h*",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIQAAAAAAAAA",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniHashTable.h",
+              "RelativeToolTip": "miniHashTable.h",
+              "ViewState": "AQIAAIkBAAAAAAAAAAAqwJ4BAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-12T14:30:16.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "miniDeque.h",
-              "DocumentMoniker": "D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\miniDeque.h",
-              "RelativeDocumentMoniker": "miniDeque.h",
-              "ToolTip": "D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\miniDeque.h",
-              "RelativeToolTip": "miniDeque.h",
-              "ViewState": "AQIAACYAAAAAAAAAAAA1wGMAAAAKAAAA",
+              "DocumentIndex": 10,
+              "Title": "unordered_set.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\unordered_set.h",
+              "RelativeDocumentMoniker": "unordered_set.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\unordered_set.h",
+              "RelativeToolTip": "unordered_set.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA0wBkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-12T13:41:01.515Z",
+              "WhenOpened": "2024-08-16T08:42:20.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Cpp_Project\\zl_cpp_project\\MiniSTL\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAYwHQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-12T13:36:52.771Z",
+              "DocumentIndex": 8,
+              "Title": "miniSet.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniSet.h",
+              "RelativeDocumentMoniker": "miniSet.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniSet.h",
+              "RelativeToolTip": "miniSet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T08:33:32.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiniRBTree.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\MiniRBTree.h",
+              "RelativeDocumentMoniker": "MiniRBTree.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\MiniRBTree.h",
+              "RelativeToolTip": "MiniRBTree.h",
+              "ViewState": "AQIAAAUCAAAAAAAAAAA0wAoCAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T09:47:56.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "miniList.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniList.h",
+              "RelativeDocumentMoniker": "miniList.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniList.h",
+              "RelativeToolTip": "miniList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T09:35:15.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "miniVector.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniVector.h",
+              "RelativeDocumentMoniker": "miniVector.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniVector.h",
+              "RelativeToolTip": "miniVector.h",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAkwGgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T09:34:57.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "reverse_iterator.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\reverse_iterator.h",
+              "RelativeDocumentMoniker": "reverse_iterator.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\reverse_iterator.h",
+              "RelativeToolTip": "reverse_iterator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T09:34:52.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "miniDeque.h",
+              "DocumentMoniker": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniDeque.h",
+              "RelativeDocumentMoniker": "miniDeque.h",
+              "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\miniDeque.h",
+              "RelativeToolTip": "miniDeque.h",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T13:41:01.515Z",
               "EditorCaption": ""
             }
           ]

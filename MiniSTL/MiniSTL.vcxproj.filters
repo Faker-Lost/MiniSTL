@@ -18,6 +18,9 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="miniVector.h">
@@ -33,6 +36,27 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="miniHashTable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniRBTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="miniSet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unordered_set.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="miniStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="miniQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="miniPriority_Queue.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -128,13 +128,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="miniDeque.h" />
     <ClInclude Include="miniHashTable.h" />
     <ClInclude Include="miniList.h" />
+    <ClInclude Include="miniPriority_Queue.h" />
+    <ClInclude Include="miniQueue.h" />
+    <ClInclude Include="MiniRBTree.h" />
+    <ClInclude Include="miniSet.h" />
+    <ClInclude Include="miniStack.h" />
     <ClInclude Include="miniVector.h" />
     <ClInclude Include="reverse_iterator.h" />
+    <ClInclude Include="test.h" />
+    <ClInclude Include="unordered_set.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
