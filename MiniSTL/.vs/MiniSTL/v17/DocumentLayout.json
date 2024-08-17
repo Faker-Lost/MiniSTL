@@ -86,8 +86,7 @@
               "RelativeToolTip": "miniPriority_Queue.h",
               "ViewState": "AQIAAFwAAAAAAAAAAAAIwFcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T12:39:08.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T12:39:08.391Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "miniQueue.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T12:10:27.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T12:10:27.608Z"
             },
             {
               "$type": "Document",
@@ -112,8 +110,7 @@
               "RelativeToolTip": "miniStack.h",
               "ViewState": "AQIAACYAAAAAAAAAAAAawCQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T11:02:19.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T11:02:19.692Z"
             },
             {
               "$type": "Document",
@@ -123,7 +120,7 @@
               "RelativeDocumentMoniker": "test.cpp",
               "ToolTip": "D:\\Cpp_Project\\MiniSTL\\MiniSTL\\test.cpp",
               "RelativeToolTip": "test.cpp",
-              "ViewState": "AQIAAPMAAAAAAAAAAAAAAM8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-16T09:11:09.854Z",
               "EditorCaption": ""
@@ -138,8 +135,7 @@
               "RelativeToolTip": "test.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T09:10:53.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T09:10:53.509Z"
             },
             {
               "$type": "Document",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-12T13:36:52.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T13:36:52.771Z"
             },
             {
               "$type": "Document",
@@ -164,8 +159,7 @@
               "RelativeToolTip": "miniHashTable.h",
               "ViewState": "AQIAAIkBAAAAAAAAAAAqwJ4BAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-12T14:30:16.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T14:30:16.128Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "unordered_set.h",
               "ViewState": "AQIAAAMAAAAAAAAAAAA0wBkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T08:42:20.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T08:42:20.606Z"
             },
             {
               "$type": "Document",
@@ -190,8 +183,7 @@
               "RelativeToolTip": "miniSet.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T08:33:32.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T08:33:32.268Z"
             },
             {
               "$type": "Document",
@@ -203,8 +195,7 @@
               "RelativeToolTip": "MiniRBTree.h",
               "ViewState": "AQIAAAUCAAAAAAAAAAA0wAoCAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-15T09:47:56.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T09:47:56.115Z"
             },
             {
               "$type": "Document",
@@ -216,8 +207,7 @@
               "RelativeToolTip": "miniList.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-15T09:35:15.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T09:35:15.579Z"
             },
             {
               "$type": "Document",
@@ -229,8 +219,7 @@
               "RelativeToolTip": "miniVector.h",
               "ViewState": "AQIAAG0AAAAAAAAAAAAkwGgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-15T09:34:57.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T09:34:57.044Z"
             },
             {
               "$type": "Document",
@@ -242,8 +231,7 @@
               "RelativeToolTip": "reverse_iterator.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-15T09:34:52.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T09:34:52.737Z"
             },
             {
               "$type": "Document",
@@ -255,8 +243,7 @@
               "RelativeToolTip": "miniDeque.h",
               "ViewState": "AQIAAG8AAAAAAAAAAAAAAH8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-12T13:41:01.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T13:41:01.515Z"
             }
           ]
         }
