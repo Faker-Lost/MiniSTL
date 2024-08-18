@@ -13,4 +13,8 @@ void testPriotyQueue();
 
 void testHashTable();
 
-void testUnorder_set();
+void testRBTree();
+
+void testSet();
+
+void testUnordered_set();

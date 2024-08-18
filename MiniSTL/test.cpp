@@ -205,85 +205,60 @@ void testPriotyQueue()
 	cout << "Top element of pq2: " << pq2.top() << endl;
 
 }
-
-
-//HashTable²âÊÔ
+//HashTable²âÊÔ pass
 void testHashTable()
 {
-	
+	HashTable<int, int> hashTable;
+	hashTable.insert(1, 10);
+	hashTable.insert(2, 20);
+	hashTable.insert(3, 30);
+	hashTable.insert(4, 40);
+	cout << hashTable.size() << endl;
+	hashTable.erase(2);
+	hashTable.print();
 }
+////RBTree²âÊÔ  pass
+void testRBTree()
+{
+	RedBlackTree<int, int> rbTree;
 
-//ºìºÚÊ÷²âÊÔ
-//void testBRTree()
-//{
-//    // ´´½¨ºìºÚÊ÷ÊµÀı
-//    RedBlackTree<int, int> rbTree;
-//
-//    int N;
-//    std::cin >> N;
-//    getchar();
-//
-//    std::string line;
-//    for (int i = 0; i < N; i++)
-//    {
-//        std::getline(std::cin, line);
-//        std::istringstream iss(line);
-//        std::string command;
-//        iss >> command;
-//
-//        int key;
-//        int value;
-//
-//        if (command == "insert")
-//        {
-//            iss >> key >> value;
-//            rbTree.insert(key, value);
-//        }
-//
-//        if (command == "size")
-//        {
-//            std::cout << rbTree.getSize() << std::endl;
-//        }
-//
-//        if (command == "at")
-//        {
-//            iss >> key;
-//            int* res = rbTree.at(key);
-//            if (res == nullptr)
-//            {
-//                std::cout << "not exist" << std::endl;
-//            }
-//            else
-//            {
-//                std::cout << *res << std::endl;
-//            }
-//        }
-//
-//        if (command == "remove")
-//        {
-//            iss >> key;
-//            rbTree.remove(key);
-//        }
-//
-//        if (command == "print")
-//        {
-//            if (rbTree.empty())
-//            {
-//                std::cout << "empty" << std::endl;
-//            }
-//            else
-//            {
-//                rbTree.print();
-//            }
-//        }
-//    }
-//}
+	rbTree.insert(1, 10);
+	rbTree.insert(2, 20);
+	rbTree.insert(3, 30);
+	rbTree.insert(4, 40);
+	rbTree.insert(5, 50);
+	cout << rbTree.getSize() << endl;
+	cout << *rbTree.at(2) << endl;
+	rbTree.remove(1);
+	rbTree.print();
+}
+//Set²âÊÔ  pass 
+void testSet()
+{
+	Set<int> mySet;
+	mySet.insert(10);
+	mySet.insert(20);
+	mySet.insert(30);
+	mySet.insert(40);
+	mySet.insert(50);
+	cout << mySet.size() << endl;
+	mySet.erase(10);
+	bool result = mySet.contains(30);
+	cout << result << endl;
+}
+//unordered_set ²âÊÔ pass
+void testUnordered_set()
+{
+	unordered_set<int> myset;
+	myset.insert(1);
+	myset.insert(2);
+	myset.insert(3);
+	myset.insert(4);
+	myset.insert(5);
 
-//unordered_set²âÊÔ
-//void testUnorder_set()
-//{
-//    unordered_set<int> un_set;
-//
-//    un_set.insert(1);
-//    un_set.insert(2);
-//}
+	cout << myset.size() << endl;
+	myset.erase(1);
+
+	int result = myset.find(2);
+	cout << result << endl;
+}

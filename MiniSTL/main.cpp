@@ -19,15 +19,18 @@ int main()
 	//testDeque();
 	 //4. ≤‚ ‘stack pass
 	//testStack();
-	//5. ≤‚ ‘Queue 
+	//5. ≤‚ ‘Queue  pass
 	//testQueue();
-	//6. ≤‚ ‘testPriotyQueue
-	testPriotyQueue();
-
-	
-    //testrbtree();
-    //testset();
-    //testunorder_set();
+	//6. ≤‚ ‘testPriotyQueue pass
+	//testPriotyQueue();
+	//7°¢≤‚ ‘HashTable pass
+	//testHashTable();
+	//8. ≤‚ ‘RBTree pass
+	//testRBTree();
+	//9. ≤‚ ‘Set pass
+	//testSet();
+	//10 ≤‚ ‘unordered_set
+	testUnordered_set();
 
 	return 0;
 }

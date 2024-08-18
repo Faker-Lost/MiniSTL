@@ -59,5 +59,8 @@
     <ClInclude Include="miniPriority_Queue.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="miniMultiset.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -134,6 +134,7 @@
     <ClInclude Include="miniDeque.h" />
     <ClInclude Include="miniHashTable.h" />
     <ClInclude Include="miniList.h" />
+    <ClInclude Include="miniMultiset.h" />
     <ClInclude Include="miniPriority_Queue.h" />
     <ClInclude Include="miniQueue.h" />
     <ClInclude Include="MiniRBTree.h" />
